@@ -1,0 +1,18 @@
+{
+"items" : {
+    "item1" : {
+      "Description" : "This is a chapati",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myecommerce-7b279.appspot.com/o/food.jpg?alt=media&token=abc7f9e0-f253-41b9-b6b6-6ecca7b550cf",
+      "Name" : "Chapati",
+      "Price" : "50",
+      "Rating" : "4.5"
+    },
+    "item2" : {
+      "Description" : "The Food Contains All the good things you need toby hdh yhifb this",
+      "Image" : "https://firebasestorage.googleapis.com/v0/b/myecommerce-7b279.appspot.com/o/food3.jpg?alt=media&token=f9bf5aab-c75f-40ea-aca7-7c46d875c22b",
+      "Name" : "Protein Diet",
+      "Price" : "300",
+      "Rating" : "4.0"
+    }
+  }
+}
