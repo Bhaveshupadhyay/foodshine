@@ -1,18 +1,74 @@
 {
 "items" : {
-    "item1" : {
-      "Description" : "This is a chapati",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myecommerce-7b279.appspot.com/o/food.jpg?alt=media&token=abc7f9e0-f253-41b9-b6b6-6ecca7b550cf",
-      "Name" : "Chapati",
+   "item1" : {
+      "Description" : " potatoes, green pease, fennel, gram masala ,ginger.",
+      "Name" : "Aloo Samosa (1 pc.)",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg-global.cpcdn.com%2Frecipes%2F3f403ae3427de60a%2F1200x630cq70%2Fphoto.jpg&imgrefurl=https%3A%2F%2Fcookpad.com%2Fin%2Frecipes%2F11432977-aloo-samosa-punjabi-samosa&tbnid=kyv9LOPSZlDqhM&vet=12ahUKEwjgkuipyPXvAhWqnEsFHXdhBnoQMygBegUIARDbAQ..i&docid=AYKkVyLThwcBAM&w=1200&h=630&q=aloo%20samosa&ved=2ahUKEwjgkuipyPXvAhWqnEsFHXdhBnoQMygBegUIARDbAQ",
+      "Price" : "15",
+      "Rating" : "4.5",
+},
+"item2" : {
+      "Description" : " Chole Bhature also known as Chana Bhatura is one of the most popular Punjabi dish liked almost all over India. Chole stands for a spiced tangy chickpea curry and Bhatura is a soft and fluffy fried leavened bread.",
+      "Name" : "Chole Bhature(2 pc.)",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fs9c2c8i7.rocketcdn.me%2Fwp-content%2Fuploads%2F2016%2F04%2Fchanna-bhatura-500x500.jpg&imgrefurl=https%3A%2F%2Fwww.secondrecipe.com%2Fpunjabi-chole-channa-masala%2F&tbnid=C7-8JHr37aAhzM&vet=12ahUKEwimiP2pyvXvAhUoz3MBHZWZDTYQMygBegUIARDoAQ..i&docid=lPMrqQR4WJXitM&w=500&h=500&q=chole%20bhature&hl=en&ved=2ahUKEwimiP2pyvXvAhUoz3MBHZWZDTYQMygBegUIARDoAQ",
+      "Price" : "60",
+      "Rating" : "4.5",
+},
+"item3" : {
+      "Description" : "Aloo Puri is a favorite breakfast at my hubby's place for Sunday mornings. Here aloo refers to potato curry and puri is Indian fried bread.",
+      "Name" : "Aloo puri(4 pc.)",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.dishesguru.com%2Fuploads%2Frecipe%2Faloo-puri-810.jpg&imgrefurl=https%3A%2F%2Fwww.dishesguru.com%2Fen%2Fpotato-poori-aloo-puri-recipe.html&tbnid=YvdsZyJhWsp3OM&vet=12ahUKEwi8hJPJy_XvAhXBSSsKHdElCs0QMygLegUIARCAAg..i&docid=Hrk7AQQMe-lbXM&w=810&h=455&q=aloo%20puri&hl=en&ved=2ahUKEwi8hJPJy_XvAhXBSSsKHdElCs0QMygLegUIARCAAg",
+      "Price" : "60",
+      "Rating" : "4.9",
+},
+"item4" : {
+      "Description" : "Aloo paratha is a popular Indian breakfast of unleavened whole wheat savory and spiced potato stuffed flatbread from Punjab, India.",
+      "Name" : "Aloo paratha",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.dishesguru.com%2Fuploads%2Frecipe%2Faloo-puri-810.jpg&imgrefurl=https%3A%2F%2Fwww.dishesguru.com%2Fen%2Fpotato-poori-aloo-puri-recipe.html&tbnid=YvdsZyJhWsp3OM&vet=12ahUKEwi8hJPJy_XvAhXBSSsKHdElCs0QMygLegUIARCAAg..i&docid=Hrk7AQQMe-lbXM&w=810&h=455&q=aloo%20puri&hl=en&ved=2ahUKEwi8hJPJy_XvAhXBSSsKHdElCs0QMygLegUIARCAAg",
+      "Price" : "40",
+      "Rating" : "4.8",
+},
+"item5" : {
+      "Description" : "Gobi Paratha (Cauliflower Stuffed Flatbread) Gobi paratha recipe or Cauliflower paratha is unleavened whole wheat flatbread stuffed with a spiced grated cauliflower filling. Gobi paratha is another popular paratha from Punjab along with Aloo paratha, Paneer paratha and Onion paratha.",
+      "Name" : "Gobi Paratha",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fcdn.cdnparenting.com%2Farticles%2F2020%2F04%2F24161922%2FGobi-Cauliflower-Paratha-Recipe.jpg&imgrefurl=https%3A%2F%2Fparenting.firstcry.com%2Farticles%2Fgobi-cauliflower-paratha-recipe-babies-toddlers%2F&tbnid=820xHAy2VkeZgM&vet=12ahUKEwjI3IXizPXvAhUFGHIKHR2IDi0QMygFegUIARDvAQ..i&docid=V-FkSh8ijKahLM&w=1024&h=700&q=gobi%20paratha&hl=en&ved=2ahUKEwjI3IXizPXvAhUFGHIKHR2IDi0QMygFegUIARDvAQ",
+      "Price" : "40",
+      "Rating" : "4.8",
+},
+"item6" : {
+      "Description" : " Onion Paratha are delicious whole wheat flatbreads stuffed with finely chopped onions, green chillies and a few spices. I often make different types of parathas at home but many of these paratha recipes are not posted on the blog.",
+      "Name" : "Onion Paratha",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fwp-content%2Fuploads%2F2018%2F10%2Fonion-paratha-recipe-1.jpg&imgrefurl=https%3A%2F%2Fwww.vegrecipesofindia.com%2Fonion-paratha-recipe%2F&tbnid=brAVyKYkx38bIM&vet=12ahUKEwi_9bWnzfXvAhVnGisKHfMRApAQMygBegUIARDkAQ..i&docid=OMzUaMQfCw4itM&w=511&h=510&q=onion%20paratha&hl=en&ved=2ahUKEwi_9bWnzfXvAhVnGisKHfMRApAQMygBegUIARDkAQ",
+      "Price" : "40",
+      "Rating" : "4.7",
+},
+"item7" : {
+      "Description" : "paratha dough preparation: · firstly, in a large bowl take 2½ cup wheat flour, ½ tsp salt and 2 tsp oil. mix well. · now add 1 cup water and knead a dough.",
+      "Name" : "Mix Paratha",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fwp-content%2Fuploads%2F2020%2F01%2Fmix-veg-paratha.jpg&imgrefurl=https%3A%2F%2Fwww.indianhealthyrecipes.com%2Fveg-paratha-recipe%2F&tbnid=9DzNQFwTwtymsM&vet=12ahUKEwjXtJbwzfXvAhVGcisKHfacDhkQMygBegUIARDbAQ..i&docid=uSPDGs7s4QBU1M&w=680&h=510&q=mix%20paratha&hl=en&ved=2ahUKEwjXtJbwzfXvAhVGcisKHfacDhkQMygBegUIARDbAQ",
       "Price" : "50",
-      "Rating" : "4.5"
-    },
-    "item2" : {
-      "Description" : "People looking to lose weight often decide to adopt a high protein diet",
-      "Image" : "https://firebasestorage.googleapis.com/v0/b/myecommerce-7b279.appspot.com/o/food3.jpg?alt=media&token=f9bf5aab-c75f-40ea-aca7-7c46d875c22b",
-      "Name" : "Protein Diet",
-      "Price" : "300",
-      "Rating" : "4.0"
-    }
+      "Rating" : "4.8",
+},
+"item8" : {
+      "Description" : "Paneer paratha is a popular Indian flatbread made with whole wheat flour and cottage cheese stuffing. Paneer paratha is one of the many popular paratha varieties from Punjab. It's an all time favorite paratha at home and is served in most restaurants as well as Punjabi dhabas (road side eateries).",
+      "Name" : "Paneer Paratha",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.viniscookbook.com%2Fwp-content%2Fuploads%2F2018%2F09%2F20180924_224755.jpg&imgrefurl=https%3A%2F%2Fwww.viniscookbook.com%2Fpaneer-paratha%2F&tbnid=5Z9Jfb9AtfunWM&vet=12ahUKEwixpNLqzvXvAhXtHbcAHVeQBm8QMygCegUIARDwAQ..i&docid=h4KRnM3Hil5QhM&w=1600&h=1200&q=paneer%20paratha&hl=en&ved=2ahUKEwixpNLqzvXvAhXtHbcAHVeQBm8QMygCegUIARDwAQ",
+      "Price" : "50",
+      "Rating" : "4.8",
+},
+"item9" : {
+      "Description" : "Poha recipe is a light breakfast dish. Basically pohe is made by mixing flattened rice in a mix of seasoned spices and onions.",
+      "Name" : "Poha",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fm.economictimes.com%2Fthumb%2Fmsid-70653292%2Cwidth-1200%2Cheight-900%2Cresizemode-4%2Cimgsize-1453880%2Fpoha.jpg&imgrefurl=https%3A%2F%2Feconomictimes.indiatimes.com%2Fmagazines%2Fpanache%2Ffrom-palms-to-plates-poha-is-a-deliciously-convenient-snack-that-now-rules-breakfast-menus%2Farticleshow%2F70653217.cms&tbnid=tTGF3_qmx5cM3M&vet=12ahUKEwjRiPPAz_XvAhVjMLcAHaAFCvIQMygKegUIARCUAg..i&docid=k3_mSUKsKjIcqM&w=1200&h=900&q=poha&hl=en&ved=2ahUKEwjRiPPAz_XvAhVjMLcAHaAFCvIQMygKegUIARCUAg",
+      "Price" : "50",
+      "Rating" : "4.7",
+},
+"item10" : {
+      "Description" : "Use a butter knife to spread butter over the toast while it is still warm. If you wait until the toast has cooled, the butter will not melt into the bread. Cut the bread into halves or quarters before you eat, if you wish.",
+      "Name" : "Butter Toast(2 pc.)",
+      "Image" : "https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.archanaskitchen.com%2Fimages%2Farchanaskitchen%2FBasicRecipes_HOW_TO%2FBread_toast_recipe.jpg&imgrefurl=https%3A%2F%2Fwww.archanaskitchen.com%2Fbread-toast-recipe&tbnid=3yJX800wSxKP8M&vet=12ahUKEwiAzK31z_XvAhUGL7cAHUHEAXAQMygDegUIARD1AQ..i&docid=eqkdgcPBkf40FM&w=1600&h=1067&q=butter%20toast&hl=en&ved=2ahUKEwiAzK31z_XvAhUGL7cAHUHEAXAQMygDegUIARD1AQ",
+      "Price" : "50",
+      "Rating" : "4.7",
+}
   }
 }
