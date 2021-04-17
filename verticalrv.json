@@ -153,6 +153,27 @@
       "Image" : "https://th.bing.com/th/id/R4c1e6c5dc8402eaba25f4941d62a9247?rik=LFTBGGIY0OKU%2fQ&riu=http%3a%2f%2fapnamomos.weebly.com%2fuploads%2f3%2f7%2f1%2f1%2f37116369%2fs458543484541812744_p8_i1_w640.jpeg&ehk=gWuhJ3WRwKp93M7HgNDmnQDwixLiJOs8tn2V02P6oms%3d&risl=&pid=ImgRaw",
       "Price" : "70",
       "Rating" : "4.8"
+},
+  "item23" : {
+      "Description" : "Veggies · ? ½ teaspoon finely chopped garlic · ? ¾ teaspoon finely chopped ginger · ? ¼ cup chopped spring onions or onions · ? ½ cup finely ...",
+      "Name" : "Veg Soup",
+      "Image" : "https://www.indianhealthyrecipes.com/wp-content/uploads/2019/06/vegetable-soup.jpg",
+      "Price" : "40",
+      "Rating" : "4.5"
+},
+"item24" : {
+      "Description" : "Laksa. Cabbage And Lamb Soup. Cantonese Soup. Chicken Lemon Coriander Soup. Chicken Manchow Soup. Chicken Mulligatawny. Chicken Noodle Soup. Chicken Shorba. Chicken Sweet Corn Soup.",
+      "Name" : "Non-Veg Soup",
+      "Image" : "https://nimantranrestaurant.com/img/non.jpg",
+      "Price" : "45",
+      "Rating" : "4.5"
+},
+"item25" : {
+      "Description" : "How to make Hot Coffee · 1. In a cup take 1.5 teaspoons instant coffee. · 2. Add 3 tablespoons hot boiling water. · 3. First mix the coffee and sugar",
+      "Name" : "Hot Cofee",
+      "Image" : "https://cff2.earth.com/uploads/2018/11/01142049/Hot-or-iced-Hot-coffee-has-more-antioxidants-than-cold-brew-730x410.jpg",
+      "Price" : "35",
+      "Rating" : "4.7"
 }
   }
 }
