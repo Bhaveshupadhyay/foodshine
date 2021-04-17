@@ -69,6 +69,90 @@
       "Image" : "https://resources.stuff.co.nz/content/dam/images/1/8/3/a/m/s/image.related.StuffLandscapeSixteenByNine.1240x700.1ckg95.png/1467166850222.jpg?format=pjpg&optimize=medium",
       "Price" : "50",
       "Rating" : "4.7"
+},
+  "item11" : {
+      "Description" : "Vegetable variations. Bean sprouts. Thinly sliced green bell pepper. Snow peas or sugar snap peas. Thinly sliced yellow onion. Thinly sliced red cabbage. Small broccoli florets. Water chestnuts. Thinly sliced zucchini or yellow squash.",
+      "Name" : "Chow-mein veggie",
+      "Image" : "https://i2.wp.com/vegecravings.com/wp-content/uploads/2019/04/Vegetarian-Chowmein-Recipe-Step-By-Step-Instructions.jpg?fit=1024%2C830&quality=65&strip=all&ssl=1",
+      "Price" : "55",
+      "Rating" : "4.5"
+},
+"item12" : {
+      "Description" : "Finally add in the chicken, egg noodles, soya sauce, pepper, sugar, salt and blend all the ingredients together. Step 7 / 8. Fry this chowmein for ...",
+      "Name" : "Chow-mein non-veg",
+      "Image" : "https://www.bawarchi.com/uploads/oestSEjechdab_bigger.jpg",
+      "Price" : "75",
+      "Rating" : "4.8"
+},
+"item13" : {
+      "Description" : "Some classic vegetables which are added to the thukpa are radish, tomatoes, spring onions and spinach leaves. You can add other vegetables",
+      "Name" : "Thupka veg",
+      "Image" : "http://www.blog.sagmart.com/wp-content/uploads/2015/07/Vegetarian-Thukpa.jpg",
+      "Price" : "75",
+      "Rating" : "4.9"
+},
+"item14" : {
+      "Description" : "Add all the veggies except onion greens. Fry on a high flame until half done yet crunchy. Add soya sauce and vinegar. Mix well. Add onion greens, pepper and very little salt. If you wish to use noodles, boil them al dente. Cool this completely.",
+      "Name" : "Spring Rolls veg",
+      "Image" : "https://www.indianhealthyrecipes.com/wp-content/uploads/2013/12/spring-rolls-500x500.jpg",
+      "Price" : "65",
+      "Rating" : "4.5"
+},
+"item15" : {
+      "Description" : "Heat oil in soup pot. Add soup paste and fry for 30 seconds or so. Pour in chicken broth and mix well. Bring to a boil and reduce heat to low. Add prepared ...",
+      "Name" : "Thupka non-veg",
+      "Image" : "https://cdn.shortpixel.ai/client/q_glossy,ret_img,w_600,h_800/https://recipenp.com/wp-content/uploads/2020/07/20200711_204709-600x800.jpg",
+      "Price" : "75",
+      "Rating" : "4.5"
+},
+"item16" : {
+      "Description" : "eat oil, add ginger and garlic and saute till it gives an aroma, add chilly and onion and fry on sim till transparent. Add the carrot and capsicum and cook on sim for ...",
+      "Name" : "Spring Rolls non-veg",
+      "Image" : "https://images.herzindagi.info/image/2019/May/non-veg-spring-rolls.jpg",
+      "Price" : "65",
+      "Rating" : "4.8"
+},
+"item17" : {
+      "Description" : "aking vegetable patty mixture · Heat 1 teaspoon oil in a pan. · Add the chopped onions. · Add coriander powder, cumin powder, garam masala ...",
+      "Name" : "veg Burger",
+      "Image" : "https://www.indianhealthyrecipes.com/wp-content/uploads/2016/02/veg-burger-recipe-1.jpg",
+      "Price" : "45",
+      "Rating" : "4.6"
+},
+"item18" : {
+      "Description" : "How to Make Chicken Burgers · Mince the onion and then mix it with ground chicken, chilli powder, pepper powder, salt, egg, and the bread crumbs. · Once you ...",
+      "Name" : "non-veg Burger",
+      "Image" : "https://5.imimg.com/data5/WE/LQ/MY-54431334/aloo-tikki-burger-500x500.png",
+      "Price" : "55",
+      "Rating" : "4.3"
+},
+"item19" : {
+      "Description" : "This momo recipe has a stuffing of mix veggies. The veggies I prefer to add are a mix of cabbage, carrots, french beans",
+      "Name" : "Momo steam veg",
+      "Image" : "https://www.bigbasket.com/media/uploads/recipe/w-l/3506_2_1.jpg",
+      "Price" : "60",
+      "Rating" : "4.3"
+},
+"item20" : {
+      "Description" : " Grease the stainless steel strainer and place it on the glass bowls. Add the momos in the strainer and cover it the kadai with a lid. Let it steam for ...",
+      "Name" : "Momo steam non-veg",
+      "Image" : "https://www.archanaskitchen.com/images/archanaskitchen/1-Author/shaikh.khalid7-gmail.com/Chicken_Momos_Recipe_Delicious_Steamed_Chicken_Dumplings.jpg",
+      "Price" : "60",
+      "Rating" : "4.8"
+},
+"item21" : {
+      "Description" : " Take wheat flour, salt and oil in a mixing bowl. Mix well. Heat 2 teaspoons oil in a kadai. Now to make momos divide the dough into equal sized balls of ping pong size. Take a ball and roll it to a small circle. Keep 2 teaspoons of prepared filling in it. Pleat and shape to a momo. ",
+      "Name" : "Momo Fried veg",
+      "Image" : "https://static.toiimg.com/thumb/53281477.cms?imgsize=1884587&width=509&height=340",
+      "Price" : "65",
+      "Rating" : "4.8"
+},
+"item22" : {
+      "Description" : "ut a steamer over medium flame and steam these chicken momos for about 10 minutes, and leave them to cool. Meanwhile, "
+      "Name" : "Momo Fried non-veg",
+      "Image" : "https://th.bing.com/th/id/R4c1e6c5dc8402eaba25f4941d62a9247?rik=LFTBGGIY0OKU%2fQ&riu=http%3a%2f%2fapnamomos.weebly.com%2fuploads%2f3%2f7%2f1%2f1%2f37116369%2fs458543484541812744_p8_i1_w640.jpeg&ehk=gWuhJ3WRwKp93M7HgNDmnQDwixLiJOs8tn2V02P6oms%3d&risl=&pid=ImgRaw",
+      "Price" : "70",
+      "Rating" : "4.8"
 }
   }
 }
