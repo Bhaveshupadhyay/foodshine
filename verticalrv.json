@@ -87,7 +87,7 @@
 "item13" : {
       "Description" : "Some classic vegetables which are added to the thukpa are radish, tomatoes, spring onions and spinach leaves. You can add other vegetables",
       "Name" : "Thupka veg",
-      "Image" : "http://www.blog.sagmart.com/wp-content/uploads/2015/07/Vegetarian-Thukpa.jpg",
+      "Image" : "https://www.blog.sagmart.com/wp-content/uploads/2015/07/Vegetarian-Thukpa.jpg",
       "Price" : "75",
       "Rating" : "4.9"
 },
