@@ -174,6 +174,13 @@
       "Image" : "https://cff2.earth.com/uploads/2018/11/01142049/Hot-or-iced-Hot-coffee-has-more-antioxidants-than-cold-brew-730x410.jpg",
       "Price" : "35",
       "Rating" : "4.7"
+},
+  "item25" : {
+      "Description" : "The Cornetto experience consists of a delicious, crispy-baked wafer, coated inside from top to bottom with a chocolate-flavour layer, combined with a delicious ice cream.",
+      "Name" : "Cornetto Ice Cream",
+      "Image" : "https://www.donaldscreamices.co.uk/image/cache/catalog/cornetto-mint-open-800x800.jpg",
+      "Price" : "35",
+      "Rating" : "4.7"
 }
   }
 }
