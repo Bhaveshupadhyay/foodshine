@@ -1,23 +1,23 @@
 {
 "items" : {
   "item1" : {
-      "Description" : " potatoes, green pease, fennel, gram masala ,ginger.",
+      "Description" : "Pizza is a savory dish of Italian origin consisting of a usually round, flattened base of leavened wheat-based dough topped with tomatoes, cheese, and often various other ingredients (such as anchovies, mushrooms, onions, olives, pineapple, meat, etc.), which is then baked at a high temperature, traditionally in a wood-fired oven.",
       "Name" : "Pizza",
       "Image" : "https://p1.pxfuel.com/preview/589/584/855/pizza-cheese-food-refreshment.jpg",
       "Price" : "200",
       "Rating" : "4.5"
 },
 "item2" : {
-      "Description" : " Chole Bhature also known as Chana Bhatura is one of the most popular Punjabi dish liked almost all over India. Chole stands for a spiced tangy chickpea curry and Bhatura is a soft and fluffy fried leavened bread.",
-      "Name" : "Chole Bhature(2 pc.)",
-      "Image" : "https://s9c2c8i7.rocketcdn.me/wp-content/uploads/2016/04/channa-bhatura-360x480.jpg",
+      "Description" : "Drinks are more commonly referred to by regional names, including carbonated drink, cool drink, cold drink, fizzy drink, fizzy juice, lolly water, pop, seltzer, soda, coke, soda pop, tonic, and mineral. Due to the high sugar content in typical soft drinks, they may also be called sugary drinks.",
+      "Name" : "Cold Drink",
+      "Image" : "https://coin-a-drink.co.uk/wp-content/uploads/2015/07/cold-ice-lime-drinks-hd-widescreen-wallpapers-.jpg",
       "Price" : "60",
       "Rating" : "4.5"
 },
 "item3" : {
-      "Description" : "Aloo Puri is a favorite breakfast at my hubby's place for Sunday mornings. Here aloo refers to potato curry and puri is Indian fried bread.",
-      "Name" : "Aloo puri(4 pc.)",
-      "Image" : "https://www.dishesguru.com/uploads/recipe/aloo-puri-810.jpg",
+      "Description" : "Ice cream (derived from earlier iced cream or cream ice) is a sweetened frozen food typically eaten as a snack or dessert. It may be made from dairy milk or cream and is flavoured with a sweetener, either sugar or an alternative, and any spice, such as cocoa or vanilla",
+      "Name" : "Ice Cream",
+      "Image" : "https://th.bing.com/th/id/OIP.NrsWsgMRk_JewUZ_MK8GoQHaLH?pid=ImgDet&rs=1",
       "Price" : "60",
       "Rating" : "4.9"
 }
