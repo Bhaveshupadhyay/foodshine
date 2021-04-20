@@ -2,9 +2,9 @@
 "items" : {
   "item1" : {
       "Description" : " potatoes, green pease, fennel, gram masala ,ginger.",
-      "Name" : "Aloo Samosa (1 pc.)",
-      "Image" : "https://img-global.cpcdn.com/recipes/3f403ae3427de60a/640x640sq70/photo.webp",
-      "Price" : "15",
+      "Name" : "Pizza",
+      "Image" : "https://p1.pxfuel.com/preview/589/584/855/pizza-cheese-food-refreshment.jpg",
+      "Price" : "200",
       "Rating" : "4.5"
 },
 "item2" : {
